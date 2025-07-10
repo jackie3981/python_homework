@@ -1,9 +1,4 @@
 # Task 1
-from dis import print_instructions
-
-from numpy.ma.extras import average
-
-
 def hello():
     return "Hello!"
 
