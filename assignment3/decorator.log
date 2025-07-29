@@ -1,0 +1,3 @@
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: return_true positional parameters: [1, 2, 3] keyword parameters: none return: True
+function: return_decorator positional parameters: none keyword parameters: {'debug': True, 'verbose': False} return: <function logger_decorator at 0x00000278FCBD3CE0>
