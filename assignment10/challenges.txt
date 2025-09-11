@@ -1,0 +1,3 @@
+I faced a challenge in this task when it came to finding the correct tags and navigating through them. 
+The HTML structure can sometimes be complicated if it doesn’t behave as expected. 
+However, I still find it interesting to learn how to do web scraping.
